@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\PRACTICALS\\ConnectFour\\ConnectFour.csproj",
+      "projectUniqueName": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\PRACTICALS\\grahamssendagire325\\ConnectFour\\ConnectFour.csproj",
       "projectName": "ConnectFour",
-      "projectPath": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\PRACTICALS\\ConnectFour\\ConnectFour.csproj",
+      "projectPath": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\PRACTICALS\\grahamssendagire325\\ConnectFour\\ConnectFour.csproj",
       "packagesPath": "C:\\Users\\GSsendagire\\.nuget\\packages\\",
-      "outputPath": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\PRACTICALS\\ConnectFour\\obj\\",
+      "outputPath": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\PRACTICALS\\grahamssendagire325\\ConnectFour\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GSsendagire\\AppData\\Roaming\\NuGet\\NuGet.Config"
