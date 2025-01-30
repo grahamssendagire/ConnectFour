@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+vCOYQWz7nyVPcBYg0fVxkMryjuNng1g5JRa761hlD4=",
+  "Hash": "PR5d0d6WIJOU34VNOuVwgUvTGvUpKMpPEQwC1JFc/GM=",
   "Source": "ConnectFour",
   "BasePath": "_content/ConnectFour",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ConnectFour\\wwwroot",
       "Source": "ConnectFour",
-      "ContentRoot": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\PRACTICALS\\grahamssendagire325\\ConnectFour\\wwwroot\\",
+      "ContentRoot": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\wk4 assignment\\ConnectFour325\\game\\wwwroot\\",
       "BasePath": "_content/ConnectFour",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\PRACTICALS\\grahamssendagire325\\ConnectFour\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ConnectFour.styles.css",
+      "Identity": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\wk4 assignment\\ConnectFour325\\game\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ConnectFour.styles.css",
       "SourceId": "ConnectFour",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\PRACTICALS\\grahamssendagire325\\ConnectFour\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\wk4 assignment\\ConnectFour325\\game\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ConnectFour",
       "RelativePath": "ConnectFour.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\PRACTICALS\\grahamssendagire325\\ConnectFour\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ConnectFour.styles.css"
+      "OriginalItemSpec": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\wk4 assignment\\ConnectFour325\\game\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ConnectFour.styles.css"
     },
     {
-      "Identity": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\PRACTICALS\\grahamssendagire325\\ConnectFour\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ConnectFour.bundle.scp.css",
+      "Identity": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\wk4 assignment\\ConnectFour325\\game\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ConnectFour.bundle.scp.css",
       "SourceId": "ConnectFour",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\PRACTICALS\\grahamssendagire325\\ConnectFour\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\wk4 assignment\\ConnectFour325\\game\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ConnectFour",
       "RelativePath": "ConnectFour.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\PRACTICALS\\grahamssendagire325\\ConnectFour\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ConnectFour.bundle.scp.css"
+      "OriginalItemSpec": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\wk4 assignment\\ConnectFour325\\game\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ConnectFour.bundle.scp.css"
     },
     {
-      "Identity": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\PRACTICALS\\grahamssendagire325\\ConnectFour\\wwwroot\\app.css",
+      "Identity": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\wk4 assignment\\ConnectFour325\\game\\wwwroot\\app.css",
       "SourceId": "ConnectFour",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\PRACTICALS\\grahamssendagire325\\ConnectFour\\wwwroot\\",
+      "ContentRoot": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\wk4 assignment\\ConnectFour325\\game\\wwwroot\\",
       "BasePath": "_content/ConnectFour",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\PRACTICALS\\grahamssendagire325\\ConnectFour\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\wk4 assignment\\ConnectFour325\\game\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "ConnectFour",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\PRACTICALS\\grahamssendagire325\\ConnectFour\\wwwroot\\",
+      "ContentRoot": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\wk4 assignment\\ConnectFour325\\game\\wwwroot\\",
       "BasePath": "_content/ConnectFour",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\PRACTICALS\\grahamssendagire325\\ConnectFour\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\wk4 assignment\\ConnectFour325\\game\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "ConnectFour",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\PRACTICALS\\grahamssendagire325\\ConnectFour\\wwwroot\\",
+      "ContentRoot": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\wk4 assignment\\ConnectFour325\\game\\wwwroot\\",
       "BasePath": "_content/ConnectFour",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\PRACTICALS\\grahamssendagire325\\ConnectFour\\wwwroot\\favicon.png",
+      "Identity": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\wk4 assignment\\ConnectFour325\\game\\wwwroot\\favicon.png",
       "SourceId": "ConnectFour",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\PRACTICALS\\grahamssendagire325\\ConnectFour\\wwwroot\\",
+      "ContentRoot": "D:\\GRAHAM\\BACHELORS DEGREE IDAHO\\CSE325Net Software Development\\wk4 assignment\\ConnectFour325\\game\\wwwroot\\",
       "BasePath": "_content/ConnectFour",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

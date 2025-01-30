@@ -56,3 +56,33 @@ D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\PRACTICALS\graha
 D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\PRACTICALS\grahamssendagire325\ConnectFour\obj\Debug\net8.0\scopedcss\projectbundle\ConnectFour.bundle.scp.css
 D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\PRACTICALS\grahamssendagire325\ConnectFour\obj\Debug\net8.0\ConnectFour.genruntimeconfig.cache
 D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\PRACTICALS\grahamssendagire325\ConnectFour\obj\Debug\net8.0\ref\ConnectFour.dll
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\bin\Debug\net8.0\appsettings.Development.json
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\bin\Debug\net8.0\appsettings.json
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\bin\Debug\net8.0\ConnectFour.staticwebassets.runtime.json
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\bin\Debug\net8.0\ConnectFour.exe
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\bin\Debug\net8.0\ConnectFour.deps.json
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\bin\Debug\net8.0\ConnectFour.runtimeconfig.json
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\bin\Debug\net8.0\ConnectFour.dll
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\bin\Debug\net8.0\ConnectFour.pdb
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\ConnectFour.GeneratedMSBuildEditorConfig.editorconfig
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\ConnectFour.AssemblyInfoInputs.cache
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\ConnectFour.AssemblyInfo.cs
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\ConnectFour.csproj.CoreCompileInputs.cache
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\ConnectFour.MvcApplicationPartsAssemblyInfo.cache
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\ConnectFour.sourcelink.json
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\staticwebassets.build.json
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\staticwebassets.development.json
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\staticwebassets\msbuild.ConnectFour.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\staticwebassets\msbuild.build.ConnectFour.props
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ConnectFour.props
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ConnectFour.props
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\staticwebassets.pack.json
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\scopedcss\bundle\ConnectFour.styles.css
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\scopedcss\projectbundle\ConnectFour.bundle.scp.css
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\ConnectFour.dll
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\refint\ConnectFour.dll
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\ConnectFour.pdb
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\ConnectFour.genruntimeconfig.cache
+D:\GRAHAM\BACHELORS DEGREE IDAHO\CSE325Net Software Development\wk4 assignment\ConnectFour325\game\obj\Debug\net8.0\ref\ConnectFour.dll
